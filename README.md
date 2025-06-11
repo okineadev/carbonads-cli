@@ -4,7 +4,7 @@ A simple Bash script to display [Carbon Ads](https://carbonads.net/) in your ter
 
 > Open sourced tweet <https://x.com/okineadev/status/1902267640262873119>
 
-<img alt="Screenshot" src="screenshoot.png" width="300" />
+<img alt="Screenshot" src="screenshot.png" width="300" />
 
 ## Requirements
 
